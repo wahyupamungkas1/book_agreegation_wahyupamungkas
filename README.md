@@ -24,5 +24,8 @@ Selain atribut, kelas `TokoBuku` juga memiliki metode-metode berikut:
 Berikut adalah contoh penggunaan program untuk mengelola toko buku:
 ![image](https://github.com/wahyupamungkas1/book_agreegation_wahyupamungkas/assets/129237250/0dc387b5-6567-4de4-9905-8a2356834788)
 
+
+
 Output yang dihasilkan:
+
 ![image](https://github.com/wahyupamungkas1/book_agreegation_wahyupamungkas/assets/129237250/7f7fb350-c977-4c11-a87f-0329ce44b10b)
